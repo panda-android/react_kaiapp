@@ -1,0 +1,25 @@
+{
+  "name": "react_project",
+  "description": "react_project",
+  "launch_path": "/index.html",
+  "type": "certified",
+  "permissions": {
+    "themeable": {}
+  },
+  "default_locale": "en-US",
+  "theme_color": "#fbba32",
+  "locales": {
+    "en-US": {
+      "name": "React Project",
+      "description": "React Project"
+    }
+  },
+  "icons": {
+    "56": "/icons/app_56.png",
+    "112": "/icons/app_112.png"
+  },
+  "chrome": {
+    "statusbar": "overlap"
+  },
+  "orientation": "default"
+}
